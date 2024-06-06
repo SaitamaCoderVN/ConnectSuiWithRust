@@ -5547,6 +5547,7 @@ dependencies = [
  "bcs",
  "cargo-dev",
  "futures",
+ "hex",
  "reqwest 0.12.4",
  "serde",
  "serde_json",
